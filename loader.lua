@@ -11,6 +11,8 @@ elseif game.PlaceId == 12025508008 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Keeron1/Cefrus-Hub/main/riskofroadblocks.lua"))()
 elseif game.PlaceId == 12986400307 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Keeron1/Cefrus-Hub/main/swordwarriors.lua"))()
+elseif game.PlaceId == 11445923563 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Keeron1/Cefrus-Hub/main/onefruit.lua"))()
 else
     print("Game Not Supported!")
 end
